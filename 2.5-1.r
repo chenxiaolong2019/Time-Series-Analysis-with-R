@@ -8,4 +8,3 @@ Autocorrelations of series ‘x’, by lag
 1.000 0.850 0.702 0.556 0.415 0.280 0.153 
 
 > acf(x,lag=)
-> 
